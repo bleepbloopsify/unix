@@ -1,0 +1,7 @@
+hello
+this
+is
+input
+.txt
+hello again
+goodbye
